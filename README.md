@@ -63,5 +63,6 @@ demo：https://github.com/mrzhao12/iOS-Charts
 若是想手工导入可以参考：
 
 iOS在OC项目中集成Charts绘制图表框架（手工版）
+http://blog.csdn.net/baidu2008email/article/details/55271111
 
 
